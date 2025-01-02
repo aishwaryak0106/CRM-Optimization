@@ -114,7 +114,7 @@ Regional and industry-level comparisons.
 Root cause analysis for lost deals.
 Regional trends in lost opportunities.
 
-## 10: Sales Forecast Accuracy
+#### 10: Sales Forecast Accuracy
 ✅ Compares expected vs. actual close dates for sales deals to evaluate forecast accuracy.
 ✨ Highlights:
 
