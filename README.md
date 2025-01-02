@@ -79,7 +79,7 @@ Bar charts to visualize industry-specific contributions.
 Funnel charts displaying leads at each sales stage.
 Trends in lead progression through the pipeline.
 
-## 5: Lead Response Time
+#### 5: Lead Response Time
 ⏳ Analyzes average response time for new leads and its impact on conversion rates.
 ###### ✨ Highlights:
 
