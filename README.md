@@ -42,8 +42,11 @@ This project provides an in-depth analysis of CRM data, addressing key business 
 - **Power BI**: Interactive dashboard creation and data visualization.
 
 <img width="575" alt="dashboard1" src="https://github.com/user-attachments/assets/06a224bb-3e69-47ee-b909-9151cf851f87" />
+
 <img width="575" alt="dashboard2" src="https://github.com/user-attachments/assets/dc5abcbb-0cc9-4456-8024-d6bca664db99" />
+
 <img width="575" alt="dashboard3" src="https://github.com/user-attachments/assets/fb0eef4f-5bb5-4835-9f74-e5a27d3766e9" />
+
 <img width="574" alt="dashboard4" src="https://github.com/user-attachments/assets/d12f6b9d-8b96-4c18-9d2e-9ab1c030e633" />
 
 
